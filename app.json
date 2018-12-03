@@ -1,0 +1,30 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/index/CCTV-1",
+    "pages/index/CCTV-3",
+    "pages/index/CCTV-4",
+    "pages/index/CCTV-5",
+    "pages/index/CCTV-6",
+    "pages/index/CCTV-9",
+    "pages/index/CCTV-10",
+    "pages/index/CCTV-12",
+    "pages/index/CCTV-13",
+    "pages/index/CCTV-14",
+    "pages/index/CCTV-15",
+    "pages/index/ZJWS",
+    "pages/index/JSWS",
+    "pages/index/DFWS",
+    "pages/index/AHWS",
+    "pages/index/SZWS",
+    "pages/index/HNWS",
+    "pages/Myself/Surprise"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "让我们一起看电视吧",
+    "navigationBarTextStyle": "black"
+  }
+}
